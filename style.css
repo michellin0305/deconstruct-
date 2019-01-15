@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+#left-side{
+    background-color: #a4c4b5;
+    width: 50%;
+    text-align: center;
+}
+.birdie{
+    width: 350px;
+    margin-top: 30px;
+}
+.note{
+    color: #ffffff;
+    font-size: x-large;
+    margin: auto;
+    margin-top: 20px;
+}
+#line{
+    color: #ffffff;
+    margin: 10px;
+}
+#right-side{
+    width: 50%;
+    background-color: #ffffff;
+}
+.logo{
+    margin-top: 40px;
+    width: 200px;
+    text-align: center;
+}
+#title, label{
+    color:  #a9a9a9;
+}
+.text-input{
+    width: 100%;
+}
+.or{
+    display: flex;
+}
+.bar1, .bar2{
+    width: 50px;
+}
+.bar1{
+    margin-right: 5px;
+}
+.bar2{
+    margin-left: 5px;
+}
+.bottom{
+    margin-top: 200px;
+    color: #a9a9a9;
+    text-align: center;
+}
+.google{
+    width: 150px;
+}
+.bottom a{
+    color: #a9a9a9;
+}
